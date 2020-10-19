@@ -1,4 +1,12 @@
 # Byte-compiled / optimized / DLL files
+*.txt
+*.json
+*.db
+*.sql
+bigwedge/
+bigwedge_clean/
+*.csv
+*.zip
 __pycache__/
 *.py[cod]
 *$py.class
